@@ -1,8 +1,9 @@
 # Table of content
 # Learn more at https://jupyterbook.org/customize/toc.html
 #
-- file: intro
-- file: content
+- file: docs/intro
+- file: docs/content
   sections:
-    - file: markdown
-    - file: notebooks
+    - file: docs/notebooks
+    - file: docs/markdown
+- file: docs/python_by_example
